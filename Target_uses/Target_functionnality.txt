@@ -1,0 +1,8 @@
+What do I want to achieve with this web app ???
+
+- Having an easy and visually interesting way to make the follow up of my cultures :
+* thus display of dataframe cultures
+* windows for the observe strain that summarize ID, when grown, Species, Sources (map ?), Number of replicates and their labels, current state, current storage and former one, media and description
+* OD or any measurement follow up with graph and comparison to other data (Zackarys)
+
+- Updating easliy the data base : making task for given date and validating them when done, which modify both daily log and other dataframe if necessary
